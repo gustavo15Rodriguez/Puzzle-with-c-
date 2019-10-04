@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rompecabezas", "Rompecabezas.csproj", "{BCD69DAE-DF57-4DB5-85AE-6014B051AFCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD69DAE-DF57-4DB5-85AE-6014B051AFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD69DAE-DF57-4DB5-85AE-6014B051AFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD69DAE-DF57-4DB5-85AE-6014B051AFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD69DAE-DF57-4DB5-85AE-6014B051AFCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51769DB6-8FEC-4168-B4B7-58C67FFCD128}
+	EndGlobalSection
+EndGlobal
